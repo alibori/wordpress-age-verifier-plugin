@@ -1,0 +1,17 @@
+{
+    "name": "alibori/plugin-age-verifier-alibori",
+    "description": "Age Verifier plugin for WordPress",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Axel Libori Roch",
+            "email": "a.libori@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
