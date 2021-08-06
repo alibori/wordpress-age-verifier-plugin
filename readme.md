@@ -1,7 +1,7 @@
 # Wordpress Age verifier Plugin by Alibori
-## Get your visitors noticed that thers is an age restriction to visit your site 🕵️‍
+## Get your visitors noticed that there is an age restriction to visit your site 🕵️‍
 
-This plugin allows you t set a *heading text*, *body text*, *confirm button text* and *negation button text* to display on the frontend a popup.
+This plugin allows you to set a *heading text*, *body text*, *confirm button text* and *negation button text* to display on the frontend a popup.
 
 If the custom logo of the site is set it will be rendered too 😎
 
